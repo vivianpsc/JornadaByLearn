@@ -1,2 +1,2 @@
 # JornadaByLearn
-Fiz um programinha para calcular média
+Programas da Jornada By Learn Python
